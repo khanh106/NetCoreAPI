@@ -1,0 +1,15 @@
+C:\hoc tren lop\Net_Core_API\Project\NewApp\bin\Debug\net9.0\NewApp.exe
+C:\hoc tren lop\Net_Core_API\Project\NewApp\bin\Debug\net9.0\NewApp.deps.json
+C:\hoc tren lop\Net_Core_API\Project\NewApp\bin\Debug\net9.0\NewApp.runtimeconfig.json
+C:\hoc tren lop\Net_Core_API\Project\NewApp\bin\Debug\net9.0\NewApp.dll
+C:\hoc tren lop\Net_Core_API\Project\NewApp\bin\Debug\net9.0\NewApp.pdb
+C:\hoc tren lop\Net_Core_API\Project\NewApp\obj\Debug\net9.0\NewApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\hoc tren lop\Net_Core_API\Project\NewApp\obj\Debug\net9.0\NewApp.AssemblyInfoInputs.cache
+C:\hoc tren lop\Net_Core_API\Project\NewApp\obj\Debug\net9.0\NewApp.AssemblyInfo.cs
+C:\hoc tren lop\Net_Core_API\Project\NewApp\obj\Debug\net9.0\NewApp.csproj.CoreCompileInputs.cache
+C:\hoc tren lop\Net_Core_API\Project\NewApp\obj\Debug\net9.0\NewApp.sourcelink.json
+C:\hoc tren lop\Net_Core_API\Project\NewApp\obj\Debug\net9.0\NewApp.dll
+C:\hoc tren lop\Net_Core_API\Project\NewApp\obj\Debug\net9.0\refint\NewApp.dll
+C:\hoc tren lop\Net_Core_API\Project\NewApp\obj\Debug\net9.0\NewApp.pdb
+C:\hoc tren lop\Net_Core_API\Project\NewApp\obj\Debug\net9.0\NewApp.genruntimeconfig.cache
+C:\hoc tren lop\Net_Core_API\Project\NewApp\obj\Debug\net9.0\ref\NewApp.dll
