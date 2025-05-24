@@ -1,0 +1,27 @@
+@model BMICalculator.Models.BMIModel
+
+@{
+    ViewBag.Title = "BMI Calculator";
+}
+
+<h2>BMI Calculator</h2>
+
+@using (Html.BeginForm("Calculate", "Home", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.Weight, "Weight (kg):")
+        @Html.TextBoxFor(m => m.Weight, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Height, "Height (m):")
+        @Html.TextBoxFor(m => m.Height, new { @class = "form-control" })
+    </div>
+    <button type="submit" class="btn btn-primary">Calculate BMI</button>
+}
+
+@if (ViewBag.BMIResult != null)
+{
+    <div class="alert alert-info mt-3">
+        <strong>BMI Result:</strong> @ViewBag.BMIResult
+    </div>
+}

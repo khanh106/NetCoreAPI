@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\hoc tren lop\\Net_Core_API\\newMVC\\newMVC.csproj": {}
+    "C:\\hoc tren lop\\Net_Core_API\\firt_MVC\\newMVC.csproj": {}
   },
   "projects": {
-    "C:\\hoc tren lop\\Net_Core_API\\newMVC\\newMVC.csproj": {
+    "C:\\hoc tren lop\\Net_Core_API\\firt_MVC\\newMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\hoc tren lop\\Net_Core_API\\newMVC\\newMVC.csproj",
+        "projectUniqueName": "C:\\hoc tren lop\\Net_Core_API\\firt_MVC\\newMVC.csproj",
         "projectName": "newMVC",
-        "projectPath": "C:\\hoc tren lop\\Net_Core_API\\newMVC\\newMVC.csproj",
+        "projectPath": "C:\\hoc tren lop\\Net_Core_API\\firt_MVC\\newMVC.csproj",
         "packagesPath": "C:\\Users\\khanh\\.nuget\\packages\\",
-        "outputPath": "C:\\hoc tren lop\\Net_Core_API\\newMVC\\obj\\",
+        "outputPath": "C:\\hoc tren lop\\Net_Core_API\\firt_MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\khanh\\AppData\\Roaming\\NuGet\\NuGet.Config"
